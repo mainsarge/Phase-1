@@ -23,10 +23,6 @@ in vec4 vertexColor;
 in vec2 texCoords;
 
 uniform sampler2D myTex;
-uniform float scale_theta;
-uniform float scale_radius;
-uniform float offset_theta;
-uniform float offset_radius;
 
 void main()
 {
